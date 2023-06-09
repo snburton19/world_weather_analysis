@@ -1,5 +1,5 @@
 # World Weather Analysis - Module 6 Challenge
-<sub>Chapel Hill - Data Analytics Bootcamp</sub>
+<sub>UNC Chapel Hill Data Analytics Bootcamp</sub>
 
 ## Overview of Project
 For Module 6, APIs were used in conjunction with Python and the Citipy, GeoViews, NumPy, and Pandas python libraries. Separated into three files, the aim in `weather_database.ipynb` was to create a database of random coordinates and find the nearest city along with its current weather. In `vacation_search.ipynb`, the temperature range was specified by the user (in this case between 20 and 65 degrees Fahrenheit), and the database was narrowed down to areas within that range. Those still in the database were tested to find the nearest hotel, which were then plotted on a map. In `vacation_itinerary.ipynb`, four cities within the same country were located, and a path was plotted to form a vacation itinerary for the proposed trip.
